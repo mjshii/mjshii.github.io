@@ -1,4 +1,3 @@
-# mjshi.github.io
 Welcome to mjshi's repository, an aggregate of things.
 
 This is a temporary landing page as we migrate from Weebly to pure HTML/JS/CSS ~~as befitting of any *real* programmer~~
