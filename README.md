@@ -16,6 +16,8 @@ Turtle Simulator: <https://studio.code.org/projects/applab/x1o743qEYxA9srSp-yyRA
 
 Dungeon Crawler: [https://mjshi.itch.io/dungeon-crawler](https://mjshi.itch.io/dungeon-crawler?password=dungeon-crawler)
 
+Ace Attorney Case Loader: [https://github.com/mshi-uiuc/Ace-Attorney-Scenario-Loader](https://github.com/mshi-uiuc/Ace-Attorney-Scenario-Loader)
+
 ## games
 Itch.io: <https://mjshi.itch.io/>
 
